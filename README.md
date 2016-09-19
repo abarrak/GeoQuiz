@@ -6,6 +6,11 @@
 
 This repository contains starter code for the Geo Quiz project in Udacity's iOS Nanodegree.
 
+## Note
+
+[My Note](https://github.com/abarrak/GeoQuiz/blob/master/MY_NOTES.md).
+
+
 ## Overview
 
 Geo Quiz is an iOS application where users try to determine the language of a spoken phrase. Supported languages include  Czech, Danish, German, Spanish, French, Polish, English, and Portuguese.
